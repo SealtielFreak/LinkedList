@@ -1,7 +1,6 @@
 /*
  *
- *  Diego Sealtiel Valderrama García - 20110339
- *  IDS, 2M-1 T/Vespertino
+ *  Diego Sealtiel Valderrama García
  *
  *  1/Octuber/2020
  *
